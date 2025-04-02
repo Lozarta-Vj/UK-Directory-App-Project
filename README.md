@@ -16,4 +16,7 @@ I created a Tableau dashboard that helped the team understand the information, i
 
 I maintained a neutral and professional tone throughout, using the terms "food and resource support" and "access points”. This was to ensure the information was accessible and respectful for a general audience.
 
-![image](https://github.com/user-attachments/assets/98a8bd44-ff54-4267-bac8-a8196cf19e1b)
+![Screenshot 2025-03-25 201601](https://github.com/user-attachments/assets/9160fc57-b291-4eac-8914-cce9065783d4)
+
+[link to my Tableau Dashboard](https://public.tableau.com/app/profile/lozarta.veizaj/viz/ResourceSupportOrganisationsUK/Dashboard1)
+
